@@ -10,12 +10,16 @@
 ```
 npm install
 ```
-![Обложка](./timecampus/2024-11-21_12-50-40.png)
-
-В файле timecampus долен импортироватся файл node_modules
+Убедитесь, что в файле timecampus есть папка node_modules
 
 5. Напишите в командной строке https://create-react-app.dev/docs/getting-started/
 
 ```
 npm start
 ```
+![Обложка](./image-doc/2024-11-21_12-50-40.png)
+
+Готово! 
+![Обложка](./image-doc/2024-11-21_13-02-01.png)
+
+Можете начать работать над frontend. 
