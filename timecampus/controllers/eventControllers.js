@@ -3,6 +3,7 @@ const { saveEvents } = require('../db/events');
 
 class EventControllers {
 async getAll(req, res) {
+    
     try {
         const events = await scrapeEvents();
         if (events.length > 0) {
